@@ -1,6 +1,6 @@
 {
   "execMap": {
-    "js": "node -r sucrase/register"
+    "js": "sucrase-node"
   },
   "ignore": [
     "__test__"
